@@ -1,0 +1,8 @@
+title: Design Documentation
+description: An open-source design documentation repository to provide a central location for design education.
+baseurl: ""
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
