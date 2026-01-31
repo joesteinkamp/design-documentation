@@ -1,6 +1,6 @@
 # Estimate Design Work
 
-Connect to: https://designknowledgebase.com/1_Framework/Toolkits/Design_Cycles_Toolkit/
+Connect to: https://documentation.designknowledgebase.com/1_Framework/Toolkits/Design_Cycles_Toolkit/
 
 
 ## Research Needs: Level of Unknowns
